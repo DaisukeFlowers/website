@@ -10,7 +10,7 @@ const Community = () => {
         We welcome contributions from everyone.
       </p>
       <div className={styles.grid}>
-        <a href="https://github.com/Kadena-Pact-Community-Foundation" target="_blank" rel="noopener noreferrer" className={styles.card}>
+        <a href="https://github.com/Pact-Community-Organization" target="_blank" rel="noopener noreferrer" className={styles.card}>
           <h2>GitHub &rarr;</h2>
           <p>Contribute to our projects on GitHub.</p>
         </a>
@@ -18,7 +18,7 @@ const Community = () => {
           <h2>Discord &rarr;</h2>
           <p>Join the conversation on the official Kadena Discord server.</p>
         </a>
-        <a href="https://github.com/Kadena-Pact-Community-Foundation/foundation/discussions" target="_blank" rel="noopener noreferrer" className={styles.card}>
+        <a href="https://github.com/Pact-Community-Organization/foundation/discussions" target="_blank" rel="noopener noreferrer" className={styles.card}>
           <h2>Discussions &rarr;</h2>
           <p>Discuss ideas and proposals on the Foundation's GitHub Discussions.</p>
         </a>

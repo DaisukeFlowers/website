@@ -14,7 +14,7 @@ const links = [
   },
   {
     title: 'Foundation Documentation',
-    url: 'https://github.com/Kadena-Pact-Community-Foundation/foundation/wiki',
+    url: 'https://github.com/Pact-Community-Organization/foundation/wiki',
     description: 'Documentation specific to the Pact Community Organization.',
   },
   {
