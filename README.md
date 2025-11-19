@@ -1,4 +1,4 @@
-# Kadena Community Website
+# Pact Community Website
 
 Public-facing website for the Pact Community Organization at https://pact-community.org.
 
