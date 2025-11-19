@@ -43,14 +43,12 @@ For apex and `www` to resolve correctly on GitHub Pages:
   - `@  AAAA  2606:50c0:8002::153`
   - `@  AAAA  2606:50c0:8003::153`
 
-- `www` CNAME
-  - `www  CNAME  kadena-pact-community-foundation.github.io.`
-- `www` CNAME
-  - `www  CNAME  pact-community-organization.github.io.`
+ - `www` CNAME
+   - `www  CNAME  pact-community-organization.github.io.`
 
 Explanation:
 - Apex must use A/AAAA records for GitHub Pages.
-- `www` should use a CNAME pointing to the org’s Pages host `kadena-pact-community-foundation.github.io`.
+- `www` should use a CNAME pointing to the org’s Pages host `pact-community-organization.github.io`.
 
 ## DNS Records (Secondary: pactcommunity.org)
 The secondary domain should forward to the primary domain to avoid duplicate content and to standardize URLs.
